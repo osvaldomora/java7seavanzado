@@ -1,4 +1,4 @@
-package com.mitocode.tema4;
+package com.mitocode.tema4.generic;
 
 public class Profesor extends Persona {
 

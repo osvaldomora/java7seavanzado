@@ -1,4 +1,4 @@
-package com.mitocode.tema4;
+package com.mitocode.tema4.generic;
 
 import java.util.ArrayList;
 import java.util.List;

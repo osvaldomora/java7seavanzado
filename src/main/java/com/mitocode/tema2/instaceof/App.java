@@ -1,4 +1,4 @@
-package com.mitocode.tema2;
+package com.mitocode.tema2.instaceof;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -36,6 +36,9 @@ public class App {
 		Naranja n1 = new Naranja("NARANJA SIN PEPA");
 		Galleta g1 = new Galleta("CHOCOLATE");
 		
+		
+		
+		
 		App app = new App();
 		app.verificar(m1);
 		app.verificar(m2);
@@ -43,6 +46,15 @@ public class App {
 		app.verificar(g1);
 		
 		
+//		Fruta fruit = new Fruta("peach");
+//		fruit=m1;
+//		probandoMetodo(fruit);
+		
+	}
+	
+	
+	public static void probandoMetodo(Fruta fruta) {
+		System.out.println("this is the fruit:"+fruta.getNombre());
 		
 	}
 

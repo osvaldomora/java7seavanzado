@@ -1,11 +1,10 @@
-package com.mitocode.tema2;
+package com.mitocode.tema4.generic;
 
-public class Fruta {
+public class Persona {
 
 	private String nombre;
 
-	public Fruta(String nombre) {
-		super();
+	public Persona(String nombre) {
 		this.nombre = nombre;
 	}
 
@@ -15,5 +14,7 @@ public class Fruta {
 
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
-	}		
+	}
+
+	
 }

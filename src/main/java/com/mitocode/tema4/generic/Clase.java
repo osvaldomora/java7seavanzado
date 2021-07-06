@@ -1,4 +1,4 @@
-package com.mitocode.tema4;
+package com.mitocode.tema4.generic;
 
 public class Clase<K,T,V,E> {
 
@@ -22,5 +22,8 @@ public class Clase<K,T,V,E> {
 		System.out.println("V es un: " + objetoV.getClass().getName());
 		System.out.println("E es un: " + objetoE.getClass().getName());
 	}
+
+
+
 	
 }

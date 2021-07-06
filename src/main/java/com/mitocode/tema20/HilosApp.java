@@ -26,6 +26,9 @@ public class HilosApp {
 		}
 
 		System.out.println("Ejecutándose hilo MAIN");
+//		for(int i = 0;i<100;i++){
+//			System.out.println("Ejecutándose hilo MAIN"+i );
+//		}
 
 	}
 

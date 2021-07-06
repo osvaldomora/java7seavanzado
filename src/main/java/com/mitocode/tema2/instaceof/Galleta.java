@@ -1,10 +1,11 @@
-package com.mitocode.tema4;
+package com.mitocode.tema2.instaceof;
 
-public class Persona {
+public class Galleta {
 
 	private String nombre;
 
-	public Persona(String nombre) {
+	public Galleta(String nombre) {
+		super();
 		this.nombre = nombre;
 	}
 
@@ -16,5 +17,4 @@ public class Persona {
 		this.nombre = nombre;
 	}
 
-	
 }

@@ -1,4 +1,4 @@
-package com.mitocode.tema2;
+package com.mitocode.tema2.instaceof;
 
 public class Naranja extends Fruta{
 

@@ -1,10 +1,10 @@
-package com.mitocode.tema2;
+package com.mitocode.tema2.instaceof;
 
-public class Galleta {
+public class Fruta {
 
 	private String nombre;
 
-	public Galleta(String nombre) {
+	public Fruta(String nombre) {
 		super();
 		this.nombre = nombre;
 	}
@@ -15,6 +15,5 @@ public class Galleta {
 
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
-	}
-
+	}		
 }
